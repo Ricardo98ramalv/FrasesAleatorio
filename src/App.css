@@ -1,0 +1,34 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+    font-family: 'Lets Coffee', sans-serif;
+}
+
+.bg1{
+    background-image: url(/imagenes/galle1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg2{
+    background-image: url(/imagenes/galle2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg3{
+    background-image: url(/imagenes/galle3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg4{
+    background-image: url(/imagenes/galle4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

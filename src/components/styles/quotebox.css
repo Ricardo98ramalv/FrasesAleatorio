@@ -1,0 +1,13 @@
+.Quotebox{
+    max-width: 400px;
+    padding: 20px;
+}
+.Quotebox__author{
+    text-decoration: double;
+}
+.Quotebox__btn{
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px;
+    border-color: aqua;
+    color: gray;
+}
